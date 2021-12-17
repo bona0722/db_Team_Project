@@ -79,3 +79,28 @@ ul, li {
   margin: 20px;
   width: 100%;
 }
+
+form {
+  width: 100%;
+  height:auto;
+  text-align: center;
+  align-items: center;
+}
+#play_date {
+  margin-bottom: 3%;
+}
+#table {
+  border: 3px black solid;
+  border-collapse: collapse;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  table-layout: fixed;
+}
+tr{
+  padding: 10%;
+}
+#first_row {
+  background-color: black;
+  color: white;
+}
