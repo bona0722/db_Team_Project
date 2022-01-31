@@ -20,11 +20,11 @@
 </br>
 
 **1. 테이블 구성**
-> Game [date, winner, loser, winner_score, loser_score,stadium]
-> Participate [team_name, date]
-> Play [date, team_name, player_number, player_name, player_position]
-> Player [player_number, player_name, team_name]
-> Team [team_name, number_of_player]    
+> Game [date, winner, loser, winner_score, loser_score,stadium]</br>
+> Participate [team_name, date]</br>
+> Play [date, team_name, player_number, player_name, player_position]</br>
+> Player [player_number, player_name, team_name]</br>
+> Team [team_name, number_of_player]</br>
 
 
 **2. DataBase**
