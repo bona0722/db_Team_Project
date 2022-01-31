@@ -79,3 +79,29 @@ ul, li {
   margin: 20px;
   width: 100%;
 }
+
+section {
+  width: 100%;
+  height:auto;
+  text-align: center;
+  align-items: center;
+}
+
+table {
+  border: 2px black solid;
+  border-collapse: collapse;
+  width: 90%;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  /* table-layout: fixed; */
+}
+th {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+tr {
+  border: 1px black solid;
+  border-collapse: collapse;
+}
