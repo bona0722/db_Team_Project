@@ -14,7 +14,6 @@
 ### 본 프로그램은 2021년 가을야구에 사용된 데이터를 사용하여 데이터베이스를 기반으로 한 웹페이지를 만들고 이를 활용하는 것을 목적으로 한다.
 
 #### 소개 영상
-[![Video Label](http://img.youtube.com/vi/iBGUWdLfnLc/0.jpg)](https://youtu.be/iBGUWdLfnLc)
 
 </br>
 </br>
